@@ -3,5 +3,6 @@ name = "hz"
 version = "0.1.0"
 authors = ["wayslog <zxs867179@gmail.com>"]
 edition = "2018"
+description = "hz is an empty project now, but I wan't it become newer io framework"
 
 [dependencies]
